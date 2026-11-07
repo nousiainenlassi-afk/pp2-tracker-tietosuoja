@@ -4,7 +4,7 @@ title: PP2 Tracker – tietosuojaseloste / Privacy policy
 
 # PP2 Tracker – tietosuojaseloste / Privacy policy
 
-*Päivitetty / Updated: 20.10.2026*
+*Päivitetty / Updated: 7.11.2026*
 
 ## Suomeksi
 
@@ -24,6 +24,12 @@ tekijöiden tuote eikä heidän hyväksymänsä.
 - **Kisaloki.** Kisan tapahtumat (kellonaika, kalalaji, paino, kisatyyppi) tallentuvat
   tekstitiedostoon laitteen kansioon *Lataukset/PP2 Tracker/kisalokit*. Voit poistaa ne
   milloin tahansa.
+- **Vikaraportti (valinnainen).** Jos painat itse *Lähetä vikaraportti*, sovellus kokoaa
+  zip-tiedoston: sovelluksen versio, puhelimen malli ja Androidin versio, asetukset,
+  tapahtumaloki, viisi viimeisintä kisalokia, uusin itse tallentamasi testikuva ja
+  kirjoittamasi kuvaus sekä satunnainen asennustunniste. Mukana ei ole nimeä tai koko ruudun
+  kuvia. Sovellus ei lähetä tiedostoa itse, vaan avaa Androidin jakovalikon, jossa valitset
+  itse vastaanottajan. Jos et jaa tiedostoa, se ei lähde laitteesta.
 - **Asetukset.** Valitsemasi kieli tallentuu laitteelle.
 
 ### Verkko ja kolmannet osapuolet
@@ -75,6 +81,12 @@ product of, or endorsed by, Procyon Products or the makers of the game.
 - **Contest log.** Events of a contest (time, species, weight, contest type) are saved to a
   text file in *Downloads/PP2 Tracker/kisalokit* on your device. You can delete them at any
   time.
+- **Bug report (optional).** Only if you press *Send bug report* yourself, the app bundles a
+  zip file: the app version, phone model and Android version, settings, the event log, the
+  five latest contest logs, the latest test image you saved yourself, the description you
+  write and a random installation ID. It does not include your name or full-screen images.
+  The app does not send the file by itself; it opens Android's share menu where you choose
+  the recipient. If you do not share the file, it does not leave the device.
 - **Settings.** The language you choose is stored on the device.
 
 ### Network and third parties
