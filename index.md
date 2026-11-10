@@ -4,7 +4,7 @@ title: PP2 Tracker – tietosuojaseloste / Privacy policy
 
 # PP2 Tracker – tietosuojaseloste / Privacy policy
 
-*Päivitetty / Updated: 7.11.2026*
+*Päivitetty / Updated: 11.11.2026*
 
 ## Suomeksi
 
@@ -16,7 +16,7 @@ tekijöiden tuote eikä heidän hyväksymänsä.
 
 - **Ruudun sisältö.** Kun painat *Aloita ruudun luku*, Android kysyy lupaa ruudun jakamiseen.
   Sovellus lukee ruutua vain laitteessa: se etsii pelin nostoviestit (laji ja paino) ja
-  kisatyypin ja laskee tuloksen. **Ruutukuvia ei tallenneta eikä lähetetä minnekään.** Ruudun
+  kisatyypin ja laskee tuloksen. **Ruutukuvia ei tallenneta eikä lähetetä minnekään.** Ainoa poikkeus: jokaisesta lasketusta kalasta sovellus säilyttää laitteen väliaikaisessa muistissa pienen rajauksen pelin viestialueesta (ei koko ruutua), viimeiset kahdeksan. Ne ovat vikaraporttia varten eivätkä lähde laitteesta, ellet itse lähetä vikaraporttia. Ruudun
   luku päättyy, kun painat *Lopeta ruudun luku* tai suljet ilmoituksen.
 - **Testikuva (valinnainen).** Jos painat itse *Tallenna testikuva*, yksi ruutukuva ja siitä
   luetut nostot tallennetaan laitteen sovelluskohtaiseen kansioon. Ne eivät lähde laitteesta,
@@ -26,8 +26,8 @@ tekijöiden tuote eikä heidän hyväksymänsä.
   milloin tahansa.
 - **Vikaraportti (valinnainen).** Jos painat itse *Lähetä vikaraportti*, sovellus kokoaa
   zip-tiedoston: sovelluksen versio, puhelimen malli ja Androidin versio, asetukset,
-  tapahtumaloki, viisi viimeisintä kisalokia, uusin itse tallentamasi testikuva ja
-  kirjoittamasi kuvaus sekä satunnainen asennustunniste. Mukana ei ole nimeä tai koko ruudun
+  tapahtumaloki, viisi viimeisintä kisalokia, viimeisimpien laskettujen kalojen nostoalueen
+  kuvat, uusin itse tallentamasi testikuva ja kirjoittamasi kuvaus sekä satunnainen asennustunniste. Mukana ei ole nimeä tai koko ruudun
   kuvia. Sovellus ei lähetä tiedostoa itse, vaan avaa Androidin jakovalikon, jossa valitset
   itse vastaanottajan. Jos et jaa tiedostoa, se ei lähde laitteesta.
 - **Asetukset.** Valitsemasi kieli tallentuu laitteelle.
@@ -73,7 +73,7 @@ product of, or endorsed by, Procyon Products or the makers of the game.
 - **Screen content.** When you press *Start screen reading*, Android asks for permission to
   share your screen. The app reads the screen only on your device: it looks for the game's
   catch messages (species and weight) and the contest type and calculates the result.
-  **Screenshots are not stored or sent anywhere.** Reading stops when you press *Stop screen
+  **Screenshots are not stored or sent anywhere.** The only exception: for each counted fish the app keeps a small crop of the game's message area (not the full screen), the last eight, in the device's temporary storage. They are for the bug report and do not leave the device unless you send a bug report yourself. Reading stops when you press *Stop screen
   reading* or close the notification.
 - **Test image (optional).** Only if you press *Save test image* yourself, one screenshot and
   the catches read from it are saved to the app's own folder on your device. They do not leave
@@ -83,8 +83,8 @@ product of, or endorsed by, Procyon Products or the makers of the game.
   time.
 - **Bug report (optional).** Only if you press *Send bug report* yourself, the app bundles a
   zip file: the app version, phone model and Android version, settings, the event log, the
-  five latest contest logs, the latest test image you saved yourself, the description you
-  write and a random installation ID. It does not include your name or full-screen images.
+  five latest contest logs, images of the catch-message area for the latest counted fish, the
+  latest test image you saved yourself, the description you write and a random installation ID. It does not include your name or full-screen images.
   The app does not send the file by itself; it opens Android's share menu where you choose
   the recipient. If you do not share the file, it does not leave the device.
 - **Settings.** The language you choose is stored on the device.
