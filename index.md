@@ -4,7 +4,7 @@ title: PP2 Tracker – tietosuojaseloste / Privacy policy
 
 # PP2 Tracker – tietosuojaseloste / Privacy policy
 
-*Päivitetty / Updated: 11.11.2026*
+*Päivitetty / Updated: 12.11.2026*
 
 ## Suomeksi
 
@@ -26,9 +26,11 @@ tekijöiden tuote eikä heidän hyväksymänsä.
   milloin tahansa.
 - **Vikaraportti (valinnainen).** Jos painat itse *Lähetä vikaraportti*, sovellus kokoaa
   zip-tiedoston: sovelluksen versio, puhelimen malli ja Androidin versio, asetukset,
-  tapahtumaloki, viisi viimeisintä kisalokia, viimeisimpien laskettujen kalojen nostoalueen
-  kuvat, uusin itse tallentamasi testikuva ja kirjoittamasi kuvaus sekä satunnainen asennustunniste. Mukana ei ole nimeä tai koko ruudun
-  kuvia. Sovellus ei lähetä tiedostoa itse, vaan avaa Androidin jakovalikon, jossa valitset
+  tapahtumaloki, viisi viimeisintä kisalokia, viimeisimpien laskettujen kalojen ja lukematta jääneiden rivien nostoalueen
+  kuvat, uusin itse tallentamasi testikuva ja kirjoittamasi kuvaus sekä satunnainen asennustunniste. Jos olet itse painanut kelluvan palkin
+  kamerapainiketta, mukana on myös koko ruudun kuva (esimerkiksi pelin tuloslista, jossa
+  näkyvät muiden pelaajien nimimerkit; kuvan voi tallentaa vain painamalla nappia). Mukana ei
+  ole nimeäsi. Sovellus ei lähetä tiedostoa itse, vaan avaa Androidin jakovalikon, jossa valitset
   itse vastaanottajan. Jos et jaa tiedostoa, se ei lähde laitteesta.
 - **Asetukset.** Valitsemasi kieli tallentuu laitteelle.
 
@@ -83,8 +85,8 @@ product of, or endorsed by, Procyon Products or the makers of the game.
   time.
 - **Bug report (optional).** Only if you press *Send bug report* yourself, the app bundles a
   zip file: the app version, phone model and Android version, settings, the event log, the
-  five latest contest logs, images of the catch-message area for the latest counted fish, the
-  latest test image you saved yourself, the description you write and a random installation ID. It does not include your name or full-screen images.
+  five latest contest logs, images of the catch-message area for the latest counted fish and for rows that could not be read, the
+  latest test image you saved yourself, the description you write and a random installation ID. If you yourself pressed the floating bar's camera button, a full-screen image is included too (for example the game's results list, which shows other players' nicknames; it is saved only when you press the button). It does not include your name.
   The app does not send the file by itself; it opens Android's share menu where you choose
   the recipient. If you do not share the file, it does not leave the device.
 - **Settings.** The language you choose is stored on the device.
